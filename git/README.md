@@ -1,1 +1,1 @@
-My first directory in Git
+My first directory in Git (edited)
